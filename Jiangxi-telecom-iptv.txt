@@ -10,7 +10,7 @@ CCTV-1高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/strea
 江西新闻频道高清,http://gzly.hkychina.com:6005/udp/239.252.220.100:5140
 江西移动电视高清,http://gzly.hkychina.com:6005/udp/239.252.220.241:5140
 江西教育频道高清,http://gzly.hkychina.com:6005/udp/239.252.219.115:5140
-江西陶瓷频道高清,http://gzly.hkychina.com:6005/udp/239.252.220.243:5140
+陶瓷频道高清,http://gzly.hkychina.com:6005/udp/239.252.220.243:5140
 江西风尚购物高清,http://gzly.hkychina.com:6005/udp/239.252.219.101:5140
 CCTV-2高清,http://gzly.hkychina.com:6005/udp/239.252.220.183:5140
 CCTV-3高清,http://gzly.hkychina.com:6005/udp/239.252.219.252:5140
