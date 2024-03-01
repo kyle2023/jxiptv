@@ -1,4 +1,4 @@
-江西IPTV电信电视,#genre#
+江西IPTV,#genre#
 CCTV-1高清,http://gzly.hkychina.com:6005/udp/239.252.219.200:5140
 CCTV-1高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 江西卫视高清,http://gzly.hkychina.com:6005/udp/239.252.220.63:5140
