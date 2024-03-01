@@ -13,6 +13,7 @@ IPTV-江西,#genre#
 江西教育频道高清,http://gzly.hkychina.com:6005/udp/239.252.219.115:5140
 陶瓷频道高清,http://gzly.hkychina.com:6005/udp/239.252.220.243:5140
 江西风尚购物高清,http://gzly.hkychina.com:6005/udp/239.252.219.101:5140
+IPTV-央视,#genre#
 CCTV-2高清,http://gzly.hkychina.com:6005/udp/239.252.220.183:5140
 CCTV-3高清,http://gzly.hkychina.com:6005/udp/239.252.219.252:5140
 CCTV-3高清,http://gzly.hkychina.com:6005/udp/239.252.220.193:5140
