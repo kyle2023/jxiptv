@@ -89,7 +89,6 @@ CGTN俄语高清,http://gzly.hkychina.com:6005/udp/239.252.219.67:5140
 茶频道高清,http://gzly.hkychina.com:6005/udp/239.252.220.160:5140
 快乐垂钓高清,http://gzly.hkychina.com:6005/udp/239.252.220.177:5140
 先锋乒羽,http://gzly.hkychina.com:6005/udp/239.252.219.184:5140
-IPTV-少儿,#genre#
 炫动卡通,http://gzly.hkychina.com:6005/udp/239.252.219.43:5140
 金鹰卡通,http://gzly.hkychina.com:6005/udp/239.252.219.69:5140
 卡酷卡通,http://gzly.hkychina.com:6005/udp/239.252.219.109:5140
