@@ -1,6 +1,7 @@
-江西IPTV,#genre#
+IPTV-央视,#genre#
 CCTV-1高清,http://gzly.hkychina.com:6005/udp/239.252.219.200:5140
 CCTV-1高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
+IPTV-江西,#genre#
 江西卫视高清,http://gzly.hkychina.com:6005/udp/239.252.220.63:5140
 江西都市频道高清,http://gzly.hkychina.com:6005/udp/239.252.220.238:5140
 江西经济生活高清,http://gzly.hkychina.com:6005/udp/239.252.219.173:5140
@@ -41,11 +42,13 @@ CGTN法语高清,http://gzly.hkychina.com:6005/udp/239.252.219.65:5140
 CGTN西班牙语高清,http://gzly.hkychina.com:6005/udp/239.252.219.196:5140
 CGTN阿拉伯语高清,http://gzly.hkychina.com:6005/udp/239.252.219.66:5140
 CGTN俄语高清,http://gzly.hkychina.com:6005/udp/239.252.219.67:5140
+IPTV-4K频道
 奥林匹克-4K,http://gzly.hkychina.com:6005/udp/239.252.219.71:5140
 奥林匹克-4K,http://gzly.hkychina.com:6005/udp/239.252.220.237:5140
 百视通台-4K,http://gzly.hkychina.com:6005/udp/239.252.220.235:5140
 百视通台-4K,http://gzly.hkychina.com:6005/udp/239.252.220.236:5140
 电影测试-4K,http://gzly.hkychina.com:6005/udp/239.252.220.212:5140
+IPTV-卫视
 湖南卫视高清,http://gzly.hkychina.com:6005/udp/239.252.219.201:5140
 浙江卫视高清,http://gzly.hkychina.com:6005/udp/239.252.219.210:5140
 北京卫视高清,http://gzly.hkychina.com:6005/udp/239.252.219.206:5140
@@ -80,6 +83,7 @@ CGTN俄语高清,http://gzly.hkychina.com:6005/udp/239.252.219.67:5140
 兵团卫视,http://gzly.hkychina.com:6005/udp/239.252.219.107:5140
 山东教育,http://gzly.hkychina.com:6005/udp/239.252.219.74:5140
 厦门卫视,http://gzly.hkychina.com:6005/udp/239.252.219.75:5140
+IPTV-教育
 中国教育-1高清,http://gzly.hkychina.com:6005/udp/239.252.220.198:5140
 中国教育2,http://gzly.hkychina.com:6005/udp/239.252.219.73:5140
 中国教育4频道,http://gzly.hkychina.com:6005/udp/239.252.219.169:5140
@@ -89,10 +93,12 @@ CGTN俄语高清,http://gzly.hkychina.com:6005/udp/239.252.219.67:5140
 茶频道高清,http://gzly.hkychina.com:6005/udp/239.252.220.160:5140
 快乐垂钓高清,http://gzly.hkychina.com:6005/udp/239.252.220.177:5140
 先锋乒羽,http://gzly.hkychina.com:6005/udp/239.252.219.184:5140
+IPTV-少儿
 炫动卡通,http://gzly.hkychina.com:6005/udp/239.252.219.43:5140
 金鹰卡通,http://gzly.hkychina.com:6005/udp/239.252.219.69:5140
 卡酷卡通,http://gzly.hkychina.com:6005/udp/239.252.219.109:5140
 嘉佳卡通,http://gzly.hkychina.com:6005/udp/239.252.219.92:5140
+IPTV-中数
 央视精品,http://gzly.hkychina.com:6005/udp/239.252.219.81:5140
 央视台球,http://gzly.hkychina.com:6005/udp/239.252.219.80:5140
 风云音乐,http://gzly.hkychina.com:6005/udp/239.252.219.87:5140
@@ -165,6 +171,7 @@ BesTV健康养生,http://gzly.hkychina.com:6005/udp/239.252.220.129:5140
 天翼高清9,http://gzly.hkychina.com:6005/udp/239.252.220.233:5140
 天翼高清10,http://gzly.hkychina.com:6005/udp/239.252.220.234:5140
 天翼4K-15M,http://gzly.hkychina.com:6005/udp/239.252.220.236:5140
+IPTV-频道
 IPTV谍战剧场,http://gzly.hkychina.com:6005/udp/239.252.220.145:5140
 IPTV相声小品,http://gzly.hkychina.com:6005/udp/239.252.220.146:5140
 IPTV野外,http://gzly.hkychina.com:6005/udp/239.252.220.73:5140
@@ -178,6 +185,7 @@ IPTV法治,http://gzly.hkychina.com:6005/udp/239.252.220.74:5140
 少儿动画,http://gzly.hkychina.com:6005/udp/239.252.220.136:5140
 魅力时尚,http://gzly.hkychina.com:6005/udp/239.252.220.137:5140
 收视指南,http://gzly.hkychina.com:6005/udp/239.252.220.144:5140
+IPTV-影视
 城市剧场,http://gzly.hkychina.com:6005/udp/239.252.220.75:5140
 军旅剧场,http://gzly.hkychina.com:6005/udp/239.252.220.76:5140
 古装剧场,http://gzly.hkychina.com:6005/udp/239.252.220.77:5140
@@ -206,6 +214,7 @@ IPTV法治,http://gzly.hkychina.com:6005/udp/239.252.220.74:5140
 美妆,http://gzly.hkychina.com:6005/udp/239.252.220.208:5140
 解密,http://gzly.hkychina.com:6005/udp/239.252.220.209:5140
 星影,http://gzly.hkychina.com:6005/udp/239.252.220.210:5140
+IPTV-江西IPTV测试
 南昌实验小学电视台高清,http://gzly.hkychina.com:6005/udp/239.252.220.12:5140
 爱上4K,http://gzly.hkychina.com:6005/udp/239.252.220.212:5140
 昌飞航空,http://gzly.hkychina.com:6005/udp/239.252.220.47:5140
