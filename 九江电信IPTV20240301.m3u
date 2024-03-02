@@ -161,6 +161,8 @@ http://gzly.hkychina.com:6005/udp/239.252.219.107:5140
 http://gzly.hkychina.com:6005/udp/239.252.219.74:5140
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://gzly.hkychina.com:6005/udp/239.252.219.75:5140
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视“,三沙卫视
+http://gzly.hkychina.com:6005/udp/239.252.219.76:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育-1高清
 http://gzly.hkychina.com:6005/udp/239.252.220.198:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",中国教育2
