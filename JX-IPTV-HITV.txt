@@ -337,7 +337,7 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 中华美食,http://39.134.115.163:8080/PLTV/88888888/224/3221225924/index.m3u8
 武术世界,http://39.134.115.163:8080/PLTV/88888888/224/3221225508/index.m3u8?fmt=ts2hls
 
-江西IPTV,#genre#
+江西联通IPTV,#genre#
 CCTV-1高清,http://gzly.hkychina.com:6005/udp/239.252.219.200:5140
 CCTV-1高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
 江西卫视高清,http://gzly.hkychina.com:6005/udp/239.252.220.63:5140
