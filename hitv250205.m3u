@@ -1,0 +1,443 @@
+#EXTM3U x-tvg-url="http://192.168.192.190:5678/t.xml.gz"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="全部",CCTV-1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="全部",CCTV-2
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="全部",CCTV-3
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="全部",CCTV-4
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226340/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="全部",CCTV-5
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="全部",CCTV5+
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="全部",CCTV6
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="全部",CCTV-7
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="全部",CCTV-8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="全部",CCTV-9
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="全部",CCTV-10
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="全部",CCTV-11
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226320/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="全部",CCTV-12
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="全部",CCTV-13
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226343/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="全部",CCTV-14
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="全部",CCTV-15
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226342/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="全部",CCTV-16
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="全部",CCTV-17
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226345/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="全部",CGTN
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225747/index.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN纪录.png" group-title="全部",CGTN纪录
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNC.png" group-title="全部",CNC中文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226297/index.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNC.png" group-title="全部",CNC英文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226298/index.m3u8
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="全部",超级综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225768/index.m3u8
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BESTV超级体育.png" group-title="全部",超级体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="全部",睛彩竞技
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226243/index.m3u8
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="全部",超级电影
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225766/index.m3u8
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="全部",超级电视剧（超清）
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="全部",江西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西都市.png" group-title="全部",江西都市频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/10000100000000060000000000000162_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="全部",湖南卫视超清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="全部",浙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="全部",江苏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="全部",东方卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="全部",北京卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="全部",广东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="全部",深圳卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="全部",湖北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="全部",天津卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="全部",山东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="全部",安徽卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="全部",黑龙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="全部",辽宁卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="全部",重庆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="全部",东南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226326/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="全部",河北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/10000100000000060000000000204115_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="全部",四川卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/10000100000000060000000000000126_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="全部",广西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/378719025.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="全部",山西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="全部",陕西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="全部",贵州卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="全部",青海卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="全部",吉林卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="全部",云南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="全部",宁夏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="全部",新疆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="全部",甘肃卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="全部",西藏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="全部",内蒙古卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="全部",海南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/10000100000000060000000005383445_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="全部",河南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226196/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/厦门卫视.png" group-title="全部",厦门卫视标清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226199/index.m3u8
+#EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西经济生活.png" group-title="全部",江西经济生活频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/10000100000000060000000005219195_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西影视旅游.png" group-title="全部",江西影视旅游
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/10000100000000060000000000000029_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西公共农业.png" group-title="全部",江西公共农业
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/10000100000000060000000000000030_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西新闻.png" group-title="全部",江西新闻频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/10000100000000060000000000230385_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西少儿.png" group-title="全部",江西少儿频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/10000100000000060000000004716224_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西教育.png" group-title="全部",江西教育频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/10000100000000060000000004898209_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/农林卫视.png" group-title="全部",农林卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226204/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩篮球.png" group-title="全部",睛彩篮球
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="全部",睛彩青少
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩广场舞.png" group-title="全部",睛彩广场舞
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png" group-title="全部",金鹰纪实
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/10000100000000060000000000158053_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实.png" group-title="全部",北京纪实HD
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="全部",卡酷少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央广购物.png" group-title="全部",央广购物
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225975/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="全部",金鹰卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226246/519183950.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优漫卡通.png" group-title="全部",优漫卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/炫动卡通.png" group-title="全部",炫动卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225720/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="全部",嘉佳卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="全部",CETV-1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/10000100000000060000000003020255_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育.png" group-title="全部",山东教育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纯享4K.png" group-title="全部",纯享4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育4.png" group-title="全部",中国教育4套标清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育2.png" group-title="全部",中国教育2台
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品萌宠.png" group-title="全部",精品萌宠
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226245/index.m3u8
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品大剧.png" group-title="全部",精品大剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/古装剧场.png" group-title="全部",古装剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/家庭剧场.png" group-title="全部",家庭剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品综合.png" group-title="全部",精品综合
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="全部",黑莓动画
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="热播精选" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精选.png" group-title="全部",热播精选
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225712/index.m3u8
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV军旅剧场.png" group-title="全部",军旅剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV金牌综艺.png" group-title="全部",金牌综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV军事评论.png" group-title="全部",军事评论
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225757/index.m3u8
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品体育.png" group-title="全部",精品体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225709/index.m3u8
+#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV怡伴健康.png" group-title="全部",怡伴健康
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV潮妈辣婆.png" group-title="全部",潮妈辣婆
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV农业致富.png" group-title="全部",农业致富
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV中国功夫.png" group-title="全部",中国功夫
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="全部",哒啵赛事
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="全部",哒啵电竞
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226265/index.m3u8
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV欢乐剧场.png" group-title="全部",欢乐剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226210/index.m3u8
+#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV东北热剧.png" group-title="全部",东北热剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226202/index.m3u8
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV炫舞未来.png" group-title="全部",炫舞未来
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225707/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓电影.png" group-title="全部",黑莓电影
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV-1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视",CCTV-2
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="全部",CCTV-3
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视",CCTV-4
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226340/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="全部",CCTV-5
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视",CCTV5+
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="全部",CCTV6
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视",CCTV-7
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="全部",CCTV-8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视",CCTV-9
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视",CCTV-10
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视",CCTV-11
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226320/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视",CCTV-12
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视",CCTV-13
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226343/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视",CCTV-14
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视",CCTV-15
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226342/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视",CCTV-16
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视",CCTV-17
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226345/index.m3u8
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="央视",超级综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225768/index.m3u8
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BESTV超级体育.png" group-title="央视",超级体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="央视",超级电影
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225766/index.m3u8
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="央视",超级电视剧（超清）
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视",CGTN
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225747/index.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN纪录.png" group-title="央视",CGTN纪录
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纯享4K.png" group-title="央视",纯享4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="江西",江西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西都市.png" group-title="江西",江西都市频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/10000100000000060000000000000162_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西经济生活.png" group-title="江西",江西经济生活频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/10000100000000060000000005219195_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西影视旅游.png" group-title="江西",江西影视旅游
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/10000100000000060000000000000029_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西公共农业.png" group-title="江西",江西公共农业
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/10000100000000060000000000000030_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西少儿.png" group-title="江西",江西少儿频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/10000100000000060000000004716224_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西新闻.png" group-title="江西",江西新闻频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/10000100000000060000000000230385_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西教育.png" group-title="江西",江西教育频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/10000100000000060000000004898209_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="省台",江西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="省台",湖南卫视超清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="省台",浙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="省台",江苏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="省台",东方卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="省台",北京卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="省台",广东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="省台",深圳卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="省台",湖北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="省台",天津卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="省台",山东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="省台",安徽卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="省台",黑龙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="省台",辽宁卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="省台",重庆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="省台",东南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226326/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="省台",四川卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/10000100000000060000000000000126_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="省台",河北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/10000100000000060000000000204115_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="省台",广西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/378719025.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="省台",山西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="省台",陕西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="省台",贵州卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="省台",青海卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="省台",吉林卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="省台",云南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="省台",宁夏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="省台",新疆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="省台",甘肃卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="省台",西藏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="省台",内蒙古卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="省台",海南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/10000100000000060000000005383445_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="省台",河南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226196/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/厦门卫视.png" group-title="省台",厦门卫视标清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226199/index.m3u8
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/农林卫视.png" group-title="省台",农林卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226204/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png" group-title="省台",金鹰纪实
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/10000100000000060000000000158053_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实.png" group-title="省台",北京纪实HD
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="体育",睛彩竞技
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226243/index.m3u8
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BESTV超级体育.png" group-title="体育",超级体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="体育",CCTV-5
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="体育",CCTV5+
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="体育",CCTV-16
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩篮球.png" group-title="体育",睛彩篮球
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="体育",睛彩青少
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="少儿",CCTV-14
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="少儿",卡酷少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="少儿",金鹰卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226246/519183950.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="少儿",黑莓动画
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优漫卡通.png" group-title="少儿",优漫卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/炫动卡通.png" group-title="少儿",炫动卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225720/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="少儿",嘉佳卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西少儿.png" group-title="少儿",江西少儿频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/10000100000000060000000004716224_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="教育",CETV-1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/10000100000000060000000003020255_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育2.png" group-title="教育",中国教育2台
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育4.png" group-title="教育",中国教育4套标清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育.png" group-title="教育",山东教育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-name="江西教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西教育.png" group-title="教育",江西教育频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/10000100000000060000000004898209_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品萌宠.png" group-title="轮播",精品萌宠
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226245/index.m3u8
+#EXTINF:-1 tvg-name="精品综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品综合.png" group-title="轮播",精品综合
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品大剧.png" group-title="轮播",精品大剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/古装剧场.png" group-title="轮播",古装剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/家庭剧场.png" group-title="轮播",家庭剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-name="热播精选" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精选.png" group-title="轮播",热播精选
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225712/index.m3u8
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV军旅剧场.png" group-title="轮播",军旅剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV金牌综艺.png" group-title="轮播",金牌综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV军事评论.png" group-title="轮播",军事评论
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225757/index.m3u8
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品体育.png" group-title="轮播",精品体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225709/index.m3u8
+#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV怡伴健康.png" group-title="轮播",怡伴健康
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV潮妈辣婆.png" group-title="轮播",潮妈辣婆
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV农业致富.png" group-title="轮播",农业致富
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV中国功夫.png" group-title="轮播",中国功夫
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="轮播",哒啵赛事
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="轮播",哒啵电竞
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226265/index.m3u8
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV欢乐剧场.png" group-title="轮播",欢乐剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226210/index.m3u8
+#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV东北热剧.png" group-title="轮播",东北热剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226202/index.m3u8
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV炫舞未来.png" group-title="轮播",炫舞未来
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225707/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓电影.png" group-title="轮播",黑莓电影
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="轮播",黑莓动画
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="黑莓",黑莓动画
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓电影.png" group-title="黑莓",黑莓电影
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-name="CNC中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNC.png" group-title="其他",CNC中文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226297/index.m3u8
+#EXTINF:-1 tvg-name="CNC英文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNC.png" group-title="其他",CNC英文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226298/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纯享4K.png" group-title="其他",纯享4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
