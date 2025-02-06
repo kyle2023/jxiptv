@@ -60,7 +60,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/100001000000000
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="全部",湖南卫视超清
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225704/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="全部",浙江卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225744/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225703/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="全部",江苏卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225702/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="全部",东方卫视
@@ -280,7 +280,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="省台",湖南卫视超清
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225704/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="省台",浙江卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225744/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225703/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="省台",江苏卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225702/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="省台",东方卫视
