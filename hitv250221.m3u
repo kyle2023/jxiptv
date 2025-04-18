@@ -221,7 +221,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226340/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视",CCTV5+
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225706/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="全部",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视",CCTV6
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视",CCTV-7
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225644/index.m3u8
