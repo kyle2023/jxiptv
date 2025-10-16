@@ -1,0 +1,43 @@
+name: Sync Gitee to GitHub
+
+on:
+  schedule:
+    - cron: '0 */8 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout GitHub repo
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0  # 获取完整历史记录
+
+      - name: Configure Git user
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+
+      - name: Sync from Gitee
+        run: |
+          # 添加并获取 Gitee 远程仓库
+          git remote add gitee https://gitee.com/chaowenzhang/ChinaTelecom-JiangxiIPTV-m3u.git || git remote set-url gitee https://gitee.com/chaowenzhang/ChinaTelecom-JiangxiIPTV-m3u.git
+          git fetch gitee
+          
+          # 检查 Gitee master 是否有新的提交
+          GITHUB_LATEST=$(git rev-parse origin/master)
+          GIITEE_LATEST=$(git rev-parse gitee/master)
+          
+          if [ "$GITHUB_LATEST" != "$GIITEE_LATEST" ]; then
+            echo "检测到更新，开始同步..."
+            git merge gitee/master --allow-unrelated-histories -m "Sync from Gitee: $(git log -1 --format='%h' gitee/master)"
+            git push origin master
+            echo "同步完成"
+          else
+            echo "无更新，跳过同步"
+            exit 0
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
